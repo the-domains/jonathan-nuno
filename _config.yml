@@ -1,4 +1,3 @@
-layout_spectrum: 0.4955087404232472
 typography_spectrum: 0.9116788206156343
 color:
   brandStrength: 0.489975661970675
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.4955087404232472
 name: Jonathan Nuno
+title: Programmer. Dungeon Master. Gamer.
 description: The devil is in the details.
