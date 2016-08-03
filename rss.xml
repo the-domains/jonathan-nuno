@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jonathan Nuno]]></title>
-        <description><![CDATA[Jonathan Nuno]]></description>
+        <title><![CDATA[Programmer. Dungeon Master. Gamer.]]></title>
+        <description><![CDATA[Programmer. Dungeon Master. Gamer.]]></description>
         <link>https://thegrid.ai/jonathan-nuno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 23:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 08:22:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathan-nuno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Camera2 API]]></title>
+            <description><![CDATA[<article><h1>Camera2 API</h1><p>I started developing in android years ago. Up until now I have stayed away from it because it can frankly be a mess and when fragments got into the picture it was my bane. However I struggled and managed to learn the mysteries of fragments during a school hackathon. Fragments are pretty cool now. I hoping that will be the case with this.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd43dbd-d904-499d-acd3-075993457640.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd43dbd-d904-499d-acd3-075993457640.jpg</link>
+            <guid isPermaLink="false">ab529d95-a352-4fdf-a7d3-39adef487aa0</guid>
+            <pubDate>Wed, 03 Aug 2016 08:22:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forget the salt: These 4 out-of-the-box tricks will make your food taste better]]></title>
             <description><![CDATA[<article><h1>Forget the salt: These 4 out-of-the-box tricks will make your food taste better</h1><p>Oh no. You forgot to add the fresh ginger to the kung pao. Don't stress! Even if you forgot a key spice or sauce, you actually can make your food taste better - without adding a single ingredient.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8d4187abae1f1fa0ce91fca29aa06901098f5f2.jpg"></article>]]></description>
             <link>http://mashable.com/2016/04/02/tricks-to-make-your-food-taste-better/#VjpZmG0f9iqK</link>
             <guid isPermaLink="false">290baf8d-fd2f-4a6a-b0bb-7077fe77f5c2</guid>
-            <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
-            <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
-            <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
-            <guid isPermaLink="false">a824d5c3-eb7d-491a-a2a5-0c5533ac35fc</guid>
             <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
         </item>
         <item>
@@ -28,10 +28,10 @@
             <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ossic headphones create 3D audio unique to you]]></title>
-            <description><![CDATA[<article><h1>Ossic headphones create 3D audio unique to you</h1><p>When you're wandering around in Jurassic Park and you hear a T-Rex roar, you run in the other direction. It's just good sense. No one wants to end their day - or their life - as an apex predator's lunch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45fe9d04ad8bfae603cd384fcd8e56961e87524d.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/04/15/ossic-x-3d-headphones/?utm_cid=mash-prod-nav-sub-st#1t2MANqDGPqa</link>
-            <guid isPermaLink="false">d744d159-e949-420a-b6e8-0dc137d1f08b</guid>
+            <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
+            <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
+            <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
+            <guid isPermaLink="false">a824d5c3-eb7d-491a-a2a5-0c5533ac35fc</guid>
             <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
         </item>
         <item>
@@ -39,6 +39,13 @@
             <description><![CDATA[<article><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar</link>
             <guid isPermaLink="false">f88486ac-dc3a-4a58-bc8c-d4b815ae7b8c</guid>
+            <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ossic headphones create 3D audio unique to you]]></title>
+            <description><![CDATA[<article><h1>Ossic headphones create 3D audio unique to you</h1><p>When you're wandering around in Jurassic Park and you hear a T-Rex roar, you run in the other direction. It's just good sense. No one wants to end their day - or their life - as an apex predator's lunch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45fe9d04ad8bfae603cd384fcd8e56961e87524d.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/04/15/ossic-x-3d-headphones/?utm_cid=mash-prod-nav-sub-st#1t2MANqDGPqa</link>
+            <guid isPermaLink="false">d744d159-e949-420a-b6e8-0dc137d1f08b</guid>
             <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">4b61db66-d215-4fdb-b897-63893cea9396</guid>
-            <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bon Marché, San Francisco, USA.]]></title>
-            <description><![CDATA[<article><h1>Bon Marché, San Francisco, USA.</h1><p>Among the eateries revitalising San Francisco's once-gritty Mid-Market neighborhood into the city's most buzzy food and drinks corridor is Bon Marché, a sunny Californian take on Le Marais. This 7500-square-foot space combines a café, a brewery, an oyster bar, a full-service restaurant, and even a flower shop that doubles as a stage for live jazz at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f67536b56e8543128b8b1122f673dc5d50a01f50.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march</link>
-            <guid isPermaLink="false">62049bdc-039d-45e0-8bd2-501286ec7fcf</guid>
             <pubDate>Mon, 01 Aug 2016 23:10:24 GMT</pubDate>
         </item>
     </channel>
