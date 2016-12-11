@@ -10,7 +10,19 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+github: true
 layout_spectrum: 0.5735464708413929
+author:
+  name: Jonathan
+  email: jonathan_nuno@outlook.com
 name: Jonathan Nuno
 title: Programmer. Dungeon Master. Gamer.
+content: []
 description: The devil is in the details.
+purpose:
+  - type: contact
+    url: 'mailto:jonathan_nuno@outlook.com'
+    label: Contact me
+  - type: external
+    url: 'https://github.com/junomars'
+    label: Check out some of my work!
