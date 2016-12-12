@@ -16,6 +16,10 @@ author:
   name: Jonathan
   email: jonathan_nuno@outlook.com
 name: Jonathan Nuno
+navigation:
+  - name: About Me
+    id: 7e10ebe8-6fbe-40ef-95be-a23016c5b1c5
+    type: content
 title: Programmer. Dungeon Master. Gamer.
 content: []
 description: The devil is in the details.
