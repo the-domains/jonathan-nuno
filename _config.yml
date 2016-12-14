@@ -1,17 +1,17 @@
-typography_spectrum: 0.05084267049096525
+layout_spectrum: 0.5170204506789583
+typography_spectrum: 0.7463389016103258
 color:
-  brandStrength: 0.489975661970675
-  lightness: 0.4996248628012836
-  saturation: 0.25690423999913037
-  rhythmicContrast: 0.9898766360711306
+  brandStrength: 0.44708328473547676
+  lightness: 0.9331862863948072
+  saturation: 0.4655579439700019
+  rhythmicContrast: 0.07664312735956053
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 github: true
-layout_spectrum: 0.5735464708413929
 author:
   name: Jonathan
   email: jonathan_nuno@outlook.com
