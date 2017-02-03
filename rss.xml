@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Programmer. Dungeon Master. Gamer.]]></title>
+        <description><![CDATA[Programmer. Dungeon Master. Gamer.]]></description>
+        <link>https://thegrid.ai/jonathan-nuno/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Feb 2017 19:19:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathan-nuno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Initial Post]]></title>
+            <description><![CDATA[<h1>Initial Post</h1>,<p><strong>Team #</strong>: 1<br><strong>Team Website</strong>: You’re on it!<br><strong>Project Description: </strong>An android application that helps inform students of police activity on the CSULB campus. <br><strong>Members</strong>:</p>,<ul><li>Daniel Jacobo</li><li>Jonathan Nuno</li><li>Michael Botsko</li><li>Anhkhoi Vu</li><li>Alejandro Lemus</li></ul>]]></description>
+            <link>https://thegrid.ai/jonathan-nuno/initial-post/index.html</link>
+            <guid isPermaLink="false">f437f7b3-f386-42ee-a3ab-005cbb6303e1</guid>
+            <pubDate>Fri, 03 Feb 2017 19:17:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
