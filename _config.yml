@@ -1,35 +1,32 @@
+name: Jonathan Nuno
+layout_spectrum: 0.5170204506789583
 typography_spectrum: 0.7463389016103258
 color:
-  brandStrength: 0.44708328473547676
-  lightness: 0.9331862863948072
-  saturation: 0.4655579439700019
-  rhythmicContrast: 0.07664312735956053
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-github: true
-layout_spectrum: 0.5170204506789583
+  brandStrength: 0.44708328473547676
+  lightness: 0.9331862863948072
+  saturation: 0.4655579439700019
+  rhythmicContrast: 0.07664312735956053
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:jonathan_nuno@outlook.com'
+  - type: external
+    label: Check out some of my work!
+    url: 'https://github.com/junomars'
+title: Programmer. Dungeon Master. Gamer.
+description: The devil is in the details.
 author:
   name: Jonathan
   email: jonathan_nuno@outlook.com
-name: Jonathan Nuno
 navigation:
-  - name: CECS492A Project
-    id: f437f7b3-f386-42ee-a3ab-005cbb6303e1
-    type: content
   - name: About Me
     id: 7e10ebe8-6fbe-40ef-95be-a23016c5b1c5
     type: content
-title: Programmer. Dungeon Master. Gamer.
 content: []
-description: The devil is in the details.
-purpose:
-  - type: contact
-    url: 'mailto:jonathan_nuno@outlook.com'
-    label: Contact me
-  - type: external
-    url: 'https://github.com/junomars'
-    label: Check out some of my work!
+github: true
